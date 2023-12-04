@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Create a hero element */
 .hero {
     height: 800px;
     width: 100%;
@@ -134,6 +135,7 @@ p {
     max-width: 150px;
 }
 
+/* Style the boxes */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
